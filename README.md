@@ -1,76 +1,89 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=JoNasgaBri.JoNasgaBri" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jonas+Gabriel!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h3 align="center">Passionate Software Developer Student | Python & AI</h3>
 
 <br/>
 
 <div align="center">
- 
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
-
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
- </div>
- 
-<div align="center"> 
-  <a href="mailto:pedro.sales.muniz@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
-
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    🎓 Systems Analysis at Uniube (Universidade de Uberaba)<br/>
+    🌱 Currently learning Python, TensorFlow, AWS, Machine Learning<br/>
+    💻 Focused on Backend Development and Artificial Intelligence<br/>
+    🎯 Looking for internship opportunities and junior developer roles<br/>
+    📍 Uberlandia, Minas Gerais, Brazil
 </div>
 
 <br/>
-<hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+    <a href="mailto:jonasgabriel9803@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    </a>
+    <a href="https://www.linkedin.com/in/jonas-gabriel-15480924b/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    </a>
+    <a href="https://github.com/JoNasgaBri" target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
+    </a>
 </div>
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<h2 align="center">⚒️ Technologies & Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,aws,javascript,nodejs,react" /><br/>
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,git,github,vscode,mysql,mongodb" />
 </div>
 
-<br/><br/>
+<br/>
 
-<hr/>
+<h2 align="center">🚀 Current Focus</h2>
+<div align="center">
+    🤖 Artificial Intelligence & Machine Learning<br/>
+    - Deep Learning with TensorFlow<br/>
+    - Data Science and Analytics<br/>
+    - Computer Vision Projects<br/>
+    <br/>
+    ☁️ Cloud Computing<br/>
+    - AWS Services and Architecture<br/>
+    - Serverless Applications<br/>
+    - DevOps Practices<br/>
+    <br/>
+    💻 Full Stack Development<br/>
+    - Backend APIs with Python/Node.js<br/>
+    - Frontend with React<br/>
+    - Database Design and Management
+</div>
 
 <br/>
 
 <div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+    <h2>🐍 My Contributions 🐍</h2>
+    <br/>
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+    <br/><br/>
+</div>
+
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
+<br/>
+
+<div align="center">
+    <table>
+        <tr>
+            <td width="50%">
+                <img width="390" src="https://github-readme-stats.vercel.app/api?username=JoNasgaBri&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+            </td>
+            <td width="50%">
+                <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoNasgaBri&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
+            </td>
+        </tr>
+    </table>
 </div>
 
 <br/>
+
+<hr/>
