@@ -1,19 +1,19 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=JoNasgaBri.JoNasgaBri" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Eu+sou+Jonas+Gabriel!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;+I+am+Jonas+Gabriel!;" />
 </h1>
 
-<h3 align="center">Estudante de Desenvolvimento de Software | Python & IA</h3>
+<h3 align="center">Software Development Student | Python & AI</h3>
 
 <br/>
 
 <div align="center">
-    🎓 Análise de Sistemas na Uniube (Universidade de Uberaba)<br/>
-    🌱 Aprendendo Python, TensorFlow, AWS, Machine Learning<br/>
-    💻 Focado em Desenvolvimento Backend e Inteligência Artificial<br/>
-    🎯 Buscando oportunidades de estágio e cargos júnior<br/>
-    📍 Uberlândia, Minas Gerais, Brasil
+    🎓 Systems Analysis at Uniube (Universidade de Uberaba)<br/>
+    🌱 Learning Python, TensorFlow, AWS, Machine Learning<br/>
+    💻 Focused on Backend Development and Artificial Intelligence<br/>
+    🎯 Seeking internship opportunities and junior developer roles<br/>
+    📍 Uberlândia, Minas Gerais, Brazil
 </div>
 
 <br/>
@@ -32,7 +32,7 @@
 
 <hr/>
 
-<h2 align="center">⚒️ Tecnologias & Ferramentas ⚒️</h2>
+<h2 align="center">⚒️ Technologies & Tools ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,tensorflow,aws,javascript,nodejs," /><br/>
@@ -41,30 +41,30 @@
 
 <br/>
 
-<h2 align="center">🚀 Foco Atual</h2>
+<h2 align="center">🚀 Current Focus</h2>
 <div align="center">
-    🤖 Inteligência Artificial & Machine Learning<br/>
-    - Deep Learning com TensorFlow<br/>
-    - Ciência de Dados e Análise<br/>
-    - Projetos de Visão Computacional<br/>
+    🤖 Artificial Intelligence & Machine Learning<br/>
+    - Deep Learning with TensorFlow<br/>
+    - Data Science and Analytics<br/>
+    - Computer Vision Projects<br/>
     <br/>
-    ☁️ Computação em Nuvem<br/>
-    - Serviços e Arquitetura AWS<br/>
-    - Aplicações Serverless<br/>
-    - Práticas DevOps<br/>
+    ☁️ Cloud Computing<br/>
+    - AWS Services and Architecture<br/>
+    - Serverless Applications<br/>
+    - DevOps Practices<br/>
     <br/>
-    💻 Desenvolvimento Full Stack<br/>
-    - APIs Backend com Python/Node.js<br/>
-    - Frontend com React<br/>
-    - Design e Gerenciamento de Banco de Dados
+    💻 Full Stack Development<br/>
+    - Backend APIs with Python/Node.js<br/>
+    - Frontend with React<br/>
+    - Database Design and Management
 </div>
 
 <br/>
 
 <div align="center">
-    <h2>🐍 Minhas Contribuições 🐍</h2>
+    <h2>🐍 My Contributions 🐍</h2>
     <br/>
-    <img alt="cobra comendo minhas contribuições" src="https://raw.githubusercontent.com/JoNasgaBri/JoNasgaBri/output/github-contribution-grid-snake.svg" />
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/JoNasgaBri/JoNasgaBri/output/github-contribution-grid-snake.svg" />
     <br/><br/>
 </div>
 
