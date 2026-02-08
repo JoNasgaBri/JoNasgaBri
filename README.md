@@ -47,18 +47,7 @@
     - Deep Learning with TensorFlow<br/>
     - Data Science and Analytics<br/>
     - Computer Vision Projects<br/>
-    <br/>
-    ☁️ Cloud Computing<br/>
-    - AWS Services and Architecture<br/>
-    - Serverless Applications<br/>
-    - DevOps Practices<br/>
-    <br/>
-    💻 Full Stack Development<br/>
-    - Backend APIs with Python/Node.js<br/>
-    - Frontend with React<br/>
-    - Database Design and Management
-</div>
-
+  
 <br/>
 
 <div align="center">
