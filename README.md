@@ -42,21 +42,10 @@
     ⚙️ <b>Infrastructure:</b> Containerized environments (Docker/Podman) and Linux workstation management
 </div>
 <br/>
-<h2 align="center">🧭 Learning Path 🧭</h2>
-<div align="center">
-<table>
-  <tr>
-    <td align="center">📊<br/><b>Data</b></td>
-    <td align="center">📈<br/><b>Statistics</b></td>
-    <td align="center">🤖<br/><b>Intelligence</b></td>
-    <td align="center">⚙️<br/><b>Systems</b></td>
-  </tr>
-</table>
-</div>
 <br/>
-<div align="center">
+<!--  <div align="center">
     <h2>🐍 My Contributions 🐍</h2>
     <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/JoNasgaBri/JoNasgaBri/output/github-contribution-grid-snake.svg" />
     <br/><br/>
-</div>
+</div> -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=90&section=footer&text=The+journey+continues...&fontColor=ffffff&fontSize=26&fontAlignY=65" width="100%" />
